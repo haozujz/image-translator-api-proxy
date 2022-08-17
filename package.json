@@ -1,0 +1,22 @@
+{
+  "name": "image-translator-node",
+  "version": "1.0.0",
+  "description": "A simple Node app built on fastify, instantly up and running.",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^8.2.0",
+    "axios": "^0.19.2",
+    "express": "^4.17.1",
+    "express-rate-limit": "^5.2.6"
+  },
+  "license": "MIT",
+  "keywords": [
+    "node",
+    "glitch",
+    "express"
+  ]
+}
